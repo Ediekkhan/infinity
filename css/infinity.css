@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#carouselExampleDark{
+    z-index: -1;
+}
+
+
+.d-md-block{
+    top:25%;}
+
+
+.navbar{
+    justify-content: space-between;
+    position: sticky;
+    z-index: 2;
+}
+
+.container-fluid{
+    padding:  0 0 0 20rem;
+}
+
+.access{
+    margin: 0 0 0 20rem;
+}
+
+
+/* .nav-item{
+    padding: 0 0 0 0;
+} */
+
+
+
+.text-first{
+    align-items: center;
+    text-align: center;
+    padding: 0 0 6rem 0;
+}
+
+
+
+
+button{
+    align-items: center;
+    /* justify-content: center; */
+    /* text-align: center; */
+    /* margin: 0 0rem 0 10rem;    */
+}
+
+.btn{
+    border-radius: 20px;
+}
+
+.btn-primary{
+        margin: 0 10rem 0 0;   
+
+}
+
+.search-bar{
+    /* width: 70%; */
+    align-items: center;
+    align-content: center;
+    justify-self: center;
+    justify-content: center;
+    
+}
+
+.btn1{
+    margin: 2.5rem; 
+}
+
+.row{
+    position: relative;
+    width: 100%;
+}
+.col{
+    position: relative;
+   
+}
+
+.coll{
+    height: 500px;
+}
+
+.col-text{
+    position: relative;
+    /* left: 70px; */
+    bottom: 350px;
+}
+
+.ran-img{
+    width: 400px;
+    height: 500px;
+}
+
+
+
+.icoons:hover{
+    color: aqua;
+    transition: 1s;
+    padding:   12px;
+    background-color: black;
+    border-radius: 70%;
+}
+
+
+
+.swat-img{
+    width: 100%;
+    height: 500px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.location{
+    width: 80%;
+    margin: auto;
+    padding: 50px 10px;
+    border-top: solid black 1px;
+}
+
+iframe{
+    width: 100%;
+    border-top: solid black 1px;
+
+}
+
+.last-new-letter{
+    width: 40%;
+}
+
+footer{
+    width: 100%;
+    position: relative;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+ul li{
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
+
+.si:hover{
+    color: white;
+    background-color:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
