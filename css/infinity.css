@@ -19,12 +19,16 @@
     z-index: 2;
 }
 
-.container-fluid{
+.navbar-nav{
     padding:  0 0 0 20rem;
 }
 
 .access{
     margin: 0 0 0 20rem;
+}
+
+.logo{
+    margin:  0 0 0 3%;
 }
 
 

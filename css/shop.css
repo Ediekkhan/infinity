@@ -1,0 +1,39 @@
+body{
+    position: relative;
+}
+.navbar{
+    justify-content: space-between;
+    position: sticky;
+    z-index: 2;
+}
+
+.navbar-nav{
+    padding:  0 0 0 20rem;
+}
+
+.access{
+    margin: 0 0 0 20rem;
+}
+
+.logo{
+    margin:  0 0 0 3%;
+}
+
+#cart-modal{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    width: 50%;
+    height: 400px;
+    background-color: rgb(194, 194, 194);
+    z-index: 4;
+    position: fixed;
+    visibility: hidden;
+}
+
+#cart-modal img{
+    width: 100px ;
+    height: 100px;
+}
+
+
